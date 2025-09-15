@@ -1,4 +1,4 @@
-# Setting Up a REST API Service for Customer orders
+# Setting Up a REST API Service for Task Tracker
 #### A step-by-step guide
 1. In your terminal create a virtual environment by running the commands `mkdir env` then `python3 -m venv env`
 2. To start your virtual environment run the command `source env/bin/activate` .To stop the environment run `deactivate` command
