@@ -1,0 +1,10 @@
+# Ignore environment variables
+.env
+.venv
+env
+oenv
+# Ignore all migration files
+**/migrations/*.py
+**/migrations/*.pyc
+!**/migrations/__init__.py
+require.txt
